@@ -1,0 +1,21 @@
+.f_wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.f_tabs {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 24px;
+}
+.f_tabs div {
+    border-radius: 50px;
+    background: #FFF;
+    cursor: pointer;
+    display: flex;
+    padding: 4px 24px;
+    align-items: center;
+    gap: 8px;
+}

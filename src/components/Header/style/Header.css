@@ -1,0 +1,53 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.header-logo {
+    background-color: #FFAB08;
+    border-bottom-left-radius: 55%;
+    border-bottom-right-radius: 55%;
+    width: 100%;
+    height: 466px;
+}
+
+.summury {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.header-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 21px;
+}
+
+.info-sum  h1{
+    color: #FFF;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 120%;
+}
+
+.info-sum h3 {
+    color: #FFF;
+font-family: Nunito;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.info-sum span {
+    color: #FF5C00;
+font-family: Nunito;
+font-size: 50px;
+font-weight: 800;
+line-height: 120%;
+}
