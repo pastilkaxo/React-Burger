@@ -4,7 +4,7 @@ export default function Filter() {
     return(
         <div className="f_wrapper">
                <div className="f_tabs">
-                    <div>
+                    <div className="active_tab">
                         <img src="./img/t1.png" alt="tab"/>
                         <p>Бургеры</p>
                     </div>

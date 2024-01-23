@@ -19,3 +19,7 @@
     align-items: center;
     gap: 8px;
 }
+
+.f_tabs .active_tab{
+    background-color: #FFAB08;
+}
