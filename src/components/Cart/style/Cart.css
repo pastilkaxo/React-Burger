@@ -1,0 +1,29 @@
+.cart_wrapper {
+ width: 300px;
+height: 109px;
+border-radius: 18px;
+background: #FFF;
+padding: 10px;
+}
+.cart_header {
+    display: flex;
+    align-items: center;
+}
+.cart_header h2 {
+flex: 1;
+color: gray;
+font-family: Nunito;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 100%;
+}
+.cart_header span {
+color: gray;
+margin-right: 20px;
+border-radius: 6px;
+background: #F2F2F3;
+width: 41px;
+height: 20px;
+text-align: center;
+}
